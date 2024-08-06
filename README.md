@@ -14,6 +14,19 @@ pnpm dev
 bun dev
 ```
 
+
+```bash
+#installed packages
+npm npm install clsx tailwind-merge
+# or
+npm install tailwindcss-animate
+# or
+npx shadcn-ui@latest init
+# or
+npm install next-themes
+
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
