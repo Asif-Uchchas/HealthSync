@@ -24,6 +24,8 @@ npm install tailwindcss-animate
 npx shadcn-ui@latest init
 # or
 npm install next-themes
+# or
+npm i react-phone-number-input
 
 ```
 
