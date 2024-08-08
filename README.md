@@ -26,6 +26,8 @@ npx shadcn-ui@latest init
 npm install next-themes
 # or
 npm i react-phone-number-input
+# or
+npm install react-datepicker --save
 
 ```
 
