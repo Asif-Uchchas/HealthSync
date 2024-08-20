@@ -28,6 +28,8 @@ npm install next-themes
 npm i react-phone-number-input
 # or
 npm install react-datepicker --save
+# or
+npm install --save react-dropzone
 
 ```
 
