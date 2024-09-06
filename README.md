@@ -30,6 +30,8 @@ npm i react-phone-number-input
 npm install react-datepicker --save
 # or
 npm install --save react-dropzone
+# or
+npx @sentry/wizard@latest -i nextjs --url https://sentry.io
 
 ```
 
