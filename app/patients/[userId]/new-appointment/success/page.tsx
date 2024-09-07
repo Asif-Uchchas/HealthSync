@@ -21,11 +21,11 @@ const SuccessPage = async ({ params: { userId }, searchParams }: SearchParamProp
       <div className="success-img">
         <Link href="/">
           <Image
-            src="/assets/icons/logo-full.svg"
+            src="/assets/icons/fulllogo_HealthSync.svg"
             alt="logo"
             height={1000}
             width={1000}
-            className="h-10 w-fit"
+            className="h-14 w-fit"
           />
         </Link>
 
